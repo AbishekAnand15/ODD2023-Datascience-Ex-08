@@ -21,9 +21,9 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # Code and Output:
 
-Name: Leann Joby Mathew
+Name: Abishek Xavier A
 
-Reg no: 212222230074
+Reg no: 212222230004
 
 ```python
   import matplotlib.pyplot as plt
